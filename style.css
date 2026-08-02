@@ -1,0 +1,22 @@
+div{
+    display: flex;
+    height: 60px;
+    background-color: antiquewhite;
+    align-items: center;
+    justify-content: space-between;
+}
+
+div a{
+    margin: 30px;
+    text-decoration: none;
+    color: rgb(133, 100,224);
+    text-align: center;
+}
+*{
+    margin: 0;
+}
+#counter{
+    text-align: center;
+    font-size: 30px;
+    
+}
